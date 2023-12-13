@@ -1,1 +1,1 @@
-# Parallax scrolling website# -parallax-scrolling-website-practice
+# Parallax scrolling website
